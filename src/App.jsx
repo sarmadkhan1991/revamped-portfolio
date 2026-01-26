@@ -1,11 +1,11 @@
 import Hero from "./sections/Hero"
-import ShowcaseSection from "./sections/ShowcaseSection"
+import AppShowcase from "./sections/AppShowcase"
 
 const App = () => {
   return (
    <div>
      <Hero/>
-     <ShowcaseSection/>
+     <AppShowcase/>
    </div>
   )
 }
